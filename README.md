@@ -208,4 +208,4 @@ It reflects an end-to-end data analysis workflow including data preparation, ana
 
 **Ruchi Sankhla**
 
-<img src="https://t.bkit.co/w_695fc61a3eb8c.gif" />
+<img src="https://t.bkit.co/w_6962a5c532c75.gif" />
